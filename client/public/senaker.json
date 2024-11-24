@@ -1,0 +1,201 @@
+[
+    {
+        "id": 1,
+        "tamanho": "38 - 40",
+        "publico": "masculino",
+        "marca": "Nike",
+        "modelo": "Air Max 97",
+        "cor": "black",
+        "preco": 299.99,
+        "imagem": "https://images.tcdn.com.br/img/img_prod/851423/tenis_nike_air_max_97_preto_e_branco_115_1_20201214023235.png",
+        "descricao": "Tênis Nike Air Max 97 na cor preto/branco, tamanho 40. Clássico da Nike com design icônico e amortecimento Air Max para máximo conforto.",
+        "ativo": true
+    },
+    {
+        "id": 2,
+        "tamanho": "36-38",
+        "publico": "feminino",
+        "marca": "Adidas",
+        "modelo": "Stan Smith",
+        "cor": "white",
+        "preco": 259.99,
+        "imagem": "https://assets.adidas.com/images/w_600,f_auto,q_auto/deecebcc265c43c6b092a7fa00fed2d0_9366/Tenis_Stan_Smith_Branco_S75104_01_standard.jpg",
+        "descricao": "Tênis Adidas Stan Smith na cor branco, tamanho 38. Um tênis versátil e atemporal, perfeito para o dia a dia.",
+        "ativo":false
+        
+    },
+    {
+        "id": 3,
+        "tamanho": "39 - 42",
+        "publico": "masculino",
+        "marca": "Puma",
+        "modelo": "RS-X³, Rush",
+        "cor": "#f04d45",
+        "preco": 199.99,
+        "imagem": "https://artwalk.vtexassets.com/arquivos/ids/236325-800-auto?v=637636084257270000&width=800&height=auto&aspect=true",
+        "descricao": "Tênis Puma RS-X³, Rush na cor vermelho/preto, tamanho 42. Design futurista com tecnologia RS para amortecimento responsivo.",
+        "ativo": true
+    },
+    {
+        "id": 4,
+        "tamanho": "38 - 42",
+        "publico": "unissex",
+        "marca": "New Balance",
+        "modelo": "574 Core",
+        "cor": "#17213a",
+        "preco": 349.99,
+        "imagem": "https://i.zst.com.br/thumbs/51/2c/9/-723070479.jpg",
+        "descricao": "Tênis New Balance 574 Core na cor azul marinho/branco, tamanho 41. Um tênis clássico e confortável para todos os gêneros.",
+        "ativo": true
+    },
+    {
+        "id": 5,
+        "tamanho": "34 -37",
+        "publico": "feminino",
+        "marca": "Asics",
+        "modelo": "Gel-Kayano 28",
+        "cor": "pink",
+        "preco": 229.99,
+        "imagem": "https://images.tcdn.com.br/img/img_prod/491552/tenis_asics_gel_kayano_28_rosa_claro_feminino_827_1_189f55124e4689c968089d972f86ab2b.jpg",
+        "descricao": "Tênis Asics Gel-Kayano 28 na cor rosa/branco, tamanho 37. Ideal para quem busca suporte e amortecimento durante corridas.",
+        "ativo": true
+    },
+    {
+        "id": 6,
+        "tamanho": "39 - 43",
+        "publico": "masculino",
+        "marca": "Nike",
+        "modelo": "Air Force 1",
+        "cor": "white",
+        "preco": 399.99,
+        "imagem": "https://static.dafiti.com.br/32/652411/1-product.jpg",
+        "descricao": "O Nike Air Force 1 'White' é um clássico atemporal... (complete a descrição)",
+        "ativo": false
+        
+    },
+    {
+        "id": 7,
+        "tamanho": "37 - 41",
+        "publico": "feminino",
+        "marca": "Converse",
+        "modelo": "Chuck Taylor All Star",
+        "cor": "black",
+        "preco": 199.99,
+        "imagem": "https://lojavirus.fbitsstatic.net/img/p/tenis-converse-chuck-taylor-all-star-platform-hi-preto-ct04940001-65889/252065-1.jpg?w=1200&h=1200&v=no-change&qs=ignore",
+        "descricao": "Tênis Converse Chuck Taylor All Star na cor preto, tamanho 39. Um clássico atemporal que combina com tudo.",
+        "ativo": false
+    },
+    {
+        "id": 8,
+        "tamanho": "44",
+        "publico": "masculino",
+        "marca": "Olympikus",
+        "modelo": "Cosmo",
+        "cor": "gray",
+        "preco": 149.99,
+        "imagem": "https://i.zst.com.br/thumbs/12/2f/12/209970348.jpg",
+        "descricao": "Tênis Olympikus Cosmo na cor cinza, tamanho 44. Um tênis leve e respirável, perfeito para o dia a dia.",
+        "ativo": false
+    },
+    {
+        "id": 10,
+        "tamanho": "40",
+        "publico": "unissex",
+        "marca": "Fila",
+        "modelo": "Disruptor II",
+        "cor": "gray",
+        "preco": 249.99,
+        "imagem": "https://a-static.mlcdn.com.br/450x450/tenis-fila-disruptor-ii-lab/netshoes/d29-6026-080-44/d96f22605e97b31a7f2e3b38be2cb710.jpeg",
+        "descricao": "Tênis Fila Disruptor II na cor branco/preto, tamanho 40. Um tênis chunky com design moderno e estiloso.",
+        "ativo": true
+    },
+    {
+        "id": 11,
+        "tamanho": "37",
+        "publico": "feminino",
+        "marca": "Under Armour",
+        "modelo": "Charged Assert 8",
+        "cor": "pink",
+        "preco": 299.99,
+        "imagem": "https://cdn.infinitysport.com.py/upload/product/6100/under-armour-charged-assert-masculino.png",
+        "descricao": "Tênis Under Armour Charged Assert 8 na cor rosa/cinza, tamanho 37. Um tênis leve e macio com tecnologia Charged para amortecimento responsivo.",
+        "ativo": false
+    },
+  
+    {
+        "id": 13,
+        "tamanho": "39",
+        "publico": "feminino",
+        "marca": "Asics",
+        "modelo": "Gel-Nimbus 24",
+        "cor": "pink",
+        "preco": 599.99,
+        "imagem": "https://bayard.vtexassets.com/arquivos/ids/2872640/0778290006-A.jpg?v=638182180060100000",
+        "descricao": "Tênis Asics Gel-Nimbus 24 na cor rosa/branco, tamanho 39. Um tênis de corrida com tecnologia Gel para máximo amortecimento e conforto durante longas distâncias.",
+        "ativo": false
+    },
+    {
+        "id": 14,
+        "tamanho": "41",
+        "publico": "unissex",
+        "marca": "New Balance",
+        "modelo": "Fresh Foam 1080v12",
+        "cor": "orange",
+        "preco": 549.99,
+        "imagem": "https://a-static.mlcdn.com.br/450x450/tenis-new-balance-fresh-foam-x-1080v12-masculino/trilhasports/m108012t11939/ba9235558de06df2d77f8e9da0cc143c.jpeg",
+        "descricao": "Tênis New Balance Fresh Foam 1080v12 na cor azul/laranja, tamanho 41. Um tênis de corrida com amortecimento Fresh Foam macio e responsivo, ideal para corridas diárias.",
+
+        "ativo": true
+    },
+    {
+        "id": 16,
+        "tamanho": "40",
+        "publico": "unissex",
+        "marca": "Nike",
+        "modelo": "Air Max 95",
+        "cor": "red",
+        "preco": 499.99,
+        "imagem": "https://i.ebayimg.com/images/g/KjoAAOSwvtRlGRNH/s-l1600.jpg",
+        "descricao": "Tênis Nike Air Max 95 na cor vermelho/branco/rosa, tamanho 40. Um clássico da Nike com design icônico e amortecimento Air Max para máximo conforto.",
+        "ativo": false
+    },
+
+    {
+        "id": 18,
+        "tamanho": "42",
+        "publico": "masculino",
+        "marca": "Puma",
+        "modelo": "RS-X³ Puzzle",
+        "cor": "gray",
+        "preco": 299.99,
+        "imagem": "https://www.tradeinn.com/f/13735/137359343/puma-rs-x3-puzzle-ps-trainers.jpg",
+        "descricao": "Tênis Puma RS-X³ Puzzle na cor cinza/azul, tamanho 42. Design futurista com tecnologia RS para amortecimento responsivo e visual único.",
+        "ativo": false
+        
+    },
+    {
+        "id": 19,
+        "tamanho": "41",
+        "publico": "unissex",
+        "marca": "New Balance",
+        "modelo": "990v5",
+        "cor": "green",
+        "preco": 699.99,
+        "imagem": "https://images.stockx.com/images/New-Balance-990v5-Defense-Green.jpg?fit=fill&bg=FFFFFF&w=480&h=320&fm=webp&auto=compress&dpr=2&trim=color&updated_at=1644604456&q=60",
+        "descricao": "Tênis New Balance 990v5 na cor verde/marrom, tamanho 41. Um tênis clássico com amortecimento premium e estilo retrô.",
+        "ativo": false
+    },
+    {
+        "id": 20,
+        "tamanho": "38",
+        "publico": "feminino",
+        "marca": "Asics",
+        "modelo": "Gel-Lyte III",
+        "cor": "orange",
+        "preco": 399.99,
+        "imagem": "https://a-static.mlcdn.com.br/450x450/tenis-asics-gel-lyte-iii/netshoes/d18-5644-223-36/708295529020a6bce5665a05cba12647.jpeg",
+        "descricao": "Tênis Asics Gel-Lyte III na cor rosa/laranja, tamanho 38. Um tênis casual com tecnologia Gel para amortecimento e estilo urbano.",
+        "ativo": true
+        
+    }
+]

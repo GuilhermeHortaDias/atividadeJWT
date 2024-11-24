@@ -1,0 +1,101 @@
+/* From Uiverse.io by Creatlydev */
+.card {
+    margin: auto;
+    width: min(300px, 100%);
+    background-color: transparent; /* Mudei para transparente, já que a imagem de fundo será usada */
+    border-radius: 1rem;
+    padding: 0.5rem;
+    color: #141417;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.364);
+    background-size: cover; /* Certifique-se de que a imagem preencha o card */
+    background-position: center; /* Centraliza a imagem de fundo */
+}
+
+.card__hero {
+    background: rgba(254, 244, 226, 0.8); /* Fundo semi-transparente para melhor legibilidade */
+    border-radius: 0.5rem 0.5rem 0 0;
+    padding: 1.5rem;
+    font-size: 0.875rem;
+    min-height: 230px;
+}
+
+.card__hero span {
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.card__hero .card__job-title {
+    margin: 2rem 0;
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.card__hero-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    gap: 1rem;
+    font-weight: 700;
+}
+
+.card__footer {
+    display: flex;
+    justify-content: flex-start;
+    align-items: start;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    padding: 0.75rem;
+    row-gap: 1rem;
+    font-weight: 700;
+    font-size: 0.875rem;
+}
+
+@media (min-width: 340px) {
+    .card__footer {
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+        gap: 1rem;
+    }
+}
+
+.card__job-summary {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    gap: 0.75rem;
+}
+
+.card__btn {
+    width: 100%;
+    font-weight: 400;
+    border: none;
+    display: block;
+    cursor: pointer;
+    text-align: center;
+    padding: 0.5rem 1.25rem;
+    border-radius: 1rem;
+    background-color: #141417;
+    color: #fff;
+    font-size: 1rem;
+}
+
+@media (min-width: 340px) {
+    .card__btn {
+        width: max-content;
+    }
+}
+
+.card__job-title {
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.card__image{
+    max-width: 60px;
+    max-height: 60px;
+}

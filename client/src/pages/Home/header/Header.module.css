@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&display=swap');
+
+.header {
+    background-color: #242424;
+    height: 65px;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+    color: #f3ddd0;
+    font-family: 'Rubik', sans-serif;
+    transition: background-color 0.3s ease;
+    gap: 10px;
+
+    width: 100%;
+    
+    
+}
+
+.header:hover {
+    background-color: #333333;
+}
+
+.logo p {
+    font-size: 24px;
+    font-weight: 500;
+    margin: 0;
+}
+
+.search {
+   width: 60%;
+   height: 80%;
+    margin: 0 20px;
+    display: contents;
+}
+
+.searchInput {
+    width: 100%;
+    padding: 6px 12px;
+    border: none;
+    border-radius: 25px;
+    font-size: 16px;
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+.searchInput:focus {
+    outline: none;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+    transform: scale(1.01);
+}
+
+.filters {
+    display: flex;
+    gap: 10px;
+}
+
+.filter {
+    padding: 8px 12px;
+    border: none;
+    border-radius: 25px;
+    background-color: #333333;
+    color: #f3ddd0;
+    font-size: 16px;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+.filter:hover {
+    background-color: #444444;
+}
+
+.filter:focus {
+    outline: none;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+    transform: scale(1.05);
+}
