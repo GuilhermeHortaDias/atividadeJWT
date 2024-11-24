@@ -20,13 +20,14 @@ export const AppRouter = () => {
                 <Route path='/Register' exact element={<Register />} />
                 <Route path='/Login' exact element={<Login />} />
                 <Route path='/' exact element={<Home />} />
-                <Route path='/admin' exact element={<Admin />} />
+                
 
                 <Route element={<PrivateRoute roles={['user', 'admin']} />}>
 
                     <Route path='/profile' exact element={<UserInfo />} />
                 </Route>
                 <Route element={<PrivateRoute roles={[, 'admin']} />}>
+                    <Route path='/admin' exact element={<Admin />} />
                     <Route path='/create-product' exact element={<CreateProduct />} />
                     <Route path='/edit-product/:id' exact element={<EditProduct />} />
                 
